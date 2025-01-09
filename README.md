@@ -1,4 +1,10 @@
-## Hi there 👋
+
+#Hi, I'm William Dashan Gan 👋
+
+I ❤️ math, computer science, and creating.
+
+- 🔭 I’m currently learning ...
+- Elixir and Phoenix Framework
 
 <!--
 **w1ll14m64n/w1ll14m64n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
