@@ -1,9 +1,9 @@
 
-#Hi, I'm William Dashan Gan 👋
+## Hi, I'm William Dashan Gan 👋
 
 I ❤️ math, computer science, and creating.
 
-- 🔭 I’m currently learning ...
+🔭 I’m currently learning ...
 - Elixir and Phoenix Framework
 
 <!--
