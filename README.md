@@ -3,8 +3,9 @@
 
 I ❤️ math, computer science, and creating.
 
-🔭 I’m currently learning ...
-- Elixir and Phoenix Framework
+🔭 I’m currently building with ...
+- Elixir and Phoenix
+- Vibecoding in windsurf and Claude Code 
 
 <!--
 **w1ll14m64n/w1ll14m64n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
